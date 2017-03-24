@@ -138,6 +138,12 @@ $min = min @pigeon;
 $max = max @pigeon;
 $average = ((sum @pigeon)/$count_indels);
 print "$header\t$count_indels\t$min\t$max\t$average\n";
+
+#Add in loci with 0 indels
+foreach (@empties) {
+	print $_\t0\n";
+	}
+
 print "File has $count_loci loci total\n";
 unlink "Temp.txt";
 unlink "Reformat.txt";
