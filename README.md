@@ -1,4 +1,9 @@
 # Indel-stats
+
+
+[![DOI](https://zenodo.org/badge/76591162.svg)](https://zenodo.org/badge/latestdoi/76591162)
+
+
 Starting with 2matrix's \*.garli.nex output file, this script will give indel #, and min/max/mean length per sequence. Get 2matrix.pl from (https://github.com/nrsalinas/2matrix).
 
 Steps:  
