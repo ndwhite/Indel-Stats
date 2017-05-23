@@ -24,5 +24,3 @@ Format will look like:
 				
 
 3) Run perl indel_stats.pl Outfile.txt
-
-4) Cite this script using the DOI above
