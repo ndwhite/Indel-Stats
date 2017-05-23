@@ -1,5 +1,5 @@
 # Indel-stats
-This project is licensed under the terms of the MIT license.
+Please cite use of this software.
 
 [![DOI](https://zenodo.org/badge/76591162.svg)](https://zenodo.org/badge/latestdoi/76591162)
 
