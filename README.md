@@ -10,7 +10,7 @@ Steps:
 1) Run 2matrix.pl with flag "-o nexus"  
 2) Get a file of a header and indel coordinates from a directory full of \*.garli.nex output files:  
     
-		for x in `ls`; do echo $x; grep "indel\_" $x; done >Outfile.txt  
+		for x in `ls`; do echo $x; grep "indel_" $x; done >Outfile.txt  
 
 Format will look like:
 
